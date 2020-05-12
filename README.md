@@ -18,6 +18,6 @@ A simple script that backtests an EA on the pairs that I specified in one go.
 
 ## How to run:
 - put the 01.ini file in the root of the mt4 data folder
-- in mt4 go to settings and save a .set file for your ea and give it the same same as the .ini file
+- in mt4 go to settings and save a .set file for your ea and give it the same name as the .ini file
 - make sure that the .ini and .set files are in the root of the datafolder
 - run the .bat file
