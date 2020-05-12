@@ -1,0 +1,2 @@
+cscript Pair.vbs
+pause
